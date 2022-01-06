@@ -8,13 +8,7 @@ composer install
 npm install
 ```
 
-```bash
-copy .env.example to .env
-```
-
-```bash
-settings nama database
-```
+copy .env.example to .env kemudian settings nama database
 
 ```bash
 php artisan key:generate
